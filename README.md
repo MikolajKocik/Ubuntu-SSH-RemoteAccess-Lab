@@ -84,6 +84,6 @@ Polecenie:
 ```
 ![Połączenie](images/Zdalne%20połączenie%20przez%20SSH%20+%20generowanie%20par%20kluczy/próba%20połączenia%20ze%20zdalnym%20hostem%20za%20pomocą%20klucza.PNG)
 ![Połączenie](images/Zdalne%20połączenie%20przez%20SSH%20+%20generowanie%20par%20kluczy/połączenie%20udane.PNG)
-![Połączenie](images/Zdalne%20połączenie%20przez%20SSH%20+%20generowanie%20par%20kluczy/utworzenie%20zdalnego%20folderu%20na%202%20maszynie.PNG)
+![Połączenie](images/Zdalne%20połączenie%20przez%20SSH%20+%20generowanie%20par%20kluczy/dokonanie-zmian.PNG)
 
 Można zauważyć, że operujemy już na zdalnym hoście spoglądając na nazwę hosta.
