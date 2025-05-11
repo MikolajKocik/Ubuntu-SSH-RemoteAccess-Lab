@@ -1,5 +1,5 @@
 # Ubuntu-SSH-RemoteAccess-Lab
-Tematem labem jest połącznenie za pomocą protokołu SSH między 2-ma maszynami wirtualnymi w jednej z dystrybucji Linuxa - Ubuntu za pomocą użycia wirtualizacji typu 2-go: Host => Virtualbox.
+Tematem laba jest połącznenie za pomocą protokołu SSH między 2-ma maszynami wirtualnymi w jednej z dystrybucji Linuxa - Ubuntu za pomocą użycia wirtualizacji typu 2-go: Host => Virtualbox.
 
 Czym jest 'SSH'? 
 
